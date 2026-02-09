@@ -1,6 +1,6 @@
 import React from 'react'
 
-const imageupload = (props) => {
+const Imageupload = (props) => {
 
     const showImagehandler = (e) => {
         const file = e.target.files[0];
@@ -20,4 +20,4 @@ const imageupload = (props) => {
   )
 }
 
-export default imageupload
+export default Imageupload
