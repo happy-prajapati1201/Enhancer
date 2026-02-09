@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Imageupload from "./imageupload"
+import Imageupload from "./Imageupload"
 import Imagepreview from "./Imagepreview"
 import { enhancedImageAPI } from '../utils/enhanceimageAPI'
 
